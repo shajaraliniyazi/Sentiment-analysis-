@@ -56,6 +56,4 @@ The project covers text cleaning, preprocessing, exploratory data analysis (EDA)
 - **Seaborn, Matplotlib**  
 - **WordCloud**  
 
----
 
-## 6. Project Structure
