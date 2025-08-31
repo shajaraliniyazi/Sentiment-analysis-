@@ -25,27 +25,20 @@ The project covers text cleaning, preprocessing, exploratory data analysis (EDA)
 
 ## 3. Exploratory Data Analysis (EDA) and Feature Engineering
 
-### Review Length Distribution
-![Review Length Distribution](images/review_length_distribution.png)
+###  No of character Length Distribution
+![Review Length Distribution](images/char_length.png)
 
 ### Word Count Distribution
-![Word Count Distribution](images/word_count_distribution.png)
+![Word Count Distribution](images/word_length.png)
 
-### Common Unigrams
-![Top Unigrams](images/top_unigrams.png)
 
-### Common Bigrams
-![Top Bigrams](images/top_bigrams.png)
-
-### Common Trigrams
-![Top Trigrams](images/top_trigrams.png)
 
 ### WordClouds
 **Positive Reviews**
-![Positive WordCloud](images/positive_wordcloud.png)
+![Positive WordCloud](images/wordcloud_positive.png)
 
 **Negative Reviews**
-![Negative WordCloud](images/negative_wordcloud.png)
+![Negative WordCloud](images/wordcloud_negative.png)
 
 ---
 
